@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ojaswa-Yadav
-- 👀 I’m interested in Data Science...
 - 🌱 I’m currently learning anything that seems interesting
 - 📫 How to reach me - ojaswayadav13@gmail.com
 
